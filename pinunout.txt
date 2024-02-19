@@ -1,0 +1,5 @@
+btn_1 = rst
+btn_2 = D4
+btn_3 = D7
+btn_4 = D6
+Xshut = D5
